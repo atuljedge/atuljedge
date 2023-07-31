@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atuljedge&label=Profile%20views&color=0e75b6&style=flat" alt="atuljedge" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **atuljedge2801@gmail.com**
 
