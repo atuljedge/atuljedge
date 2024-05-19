@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atul Jedge</h1>
-<h3 align="center">A passionate frontend developer from Pune </h3>
+<h3 align="center">A passionate Web developer from Pune </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atuljedge&label=Profile%20views&color=0e75b6&style=flat" alt="atuljedge" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently diving into **MERN Stack**
 
 - 📫 How to reach me **atuljedge2801@gmail.com**
 
