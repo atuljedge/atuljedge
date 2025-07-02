@@ -9,7 +9,7 @@
 
 ### 🔧 **About Me**
 - 💻 **Specializing in:** Windows-based applications using **VC++/MFC**, **OpenCV**, and **Halcon**.
-- 🏭 **Domain Expertise:** Industrial automation, machine vision, and inspection systems.
+- 🏭 **Domain Expertise:** machine vision, and inspection systems.
 - 🌱 **Currently diving deeper into:** High-performance C++ and real-time image processing.
 
 ---
