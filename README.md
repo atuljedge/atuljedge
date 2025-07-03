@@ -24,9 +24,14 @@
 <h3 align="left">Languages and Tools:</h3>
 <!-- Priority Order: C++, C, JavaScript, MongoDB, MySQL, Node.js, HTML, CSS, Python, React -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<!-- MFC -->
+<!-- MFC (Alternative working logo) -->
 <a href="https://learn.microsoft.com/en-us/cpp/mfc/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Microsoft_Visual_C%2B%2B_MFC_icon.png" alt="mfc" width="40" height="40"/> 
+  <img src="https://i.imgur.com/5QbTqWD.png" alt="mfc" width="40" height="40"/> 
+</a>
+
+<!-- HALCON (Alternative working logo) -->
+<a href="https://www.mvtec.com/products/halcon/" target="_blank" rel="noreferrer"> 
+  <img src="https://i.imgur.com/JiGh5xO.png" alt="halcon" width="40" height="40"/>
 </a>
 
 <!-- OpenCV -->
@@ -34,10 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
 </a>
 
-<!-- HALCON (recommend hosting locally) -->
-<a href="https://www.mvtec.com/products/halcon/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.mvtec.com/fileadmin/Redesign/img/logo-halcon.png" alt="halcon" width="40" height="40"/>
-</a>
+
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
